@@ -1,5 +1,4 @@
 node_modules/
 config.js
-.env
 .DS_Store
 api/overview/data
